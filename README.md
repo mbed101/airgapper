@@ -1,2 +1,2 @@
 # airgapper
-Anonymous file transfer app to transfer files air gapped from a computer to another device like a mobile phone
+Anonymous file transfer app to transfer files air gapped from one device to another device just using camera or webcam
